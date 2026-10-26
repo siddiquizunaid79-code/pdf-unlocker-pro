@@ -1,1 +1,4 @@
-fastapi>=0.115,<1.0\nuvicorn[standard]>=0.30,<1.0\npython-multipart>=0.0.9\npikepdf>=9.0\n
+fastapi>=0.115,<1.0
+uvicorn[standard]>=0.30,<1.0
+python-multipart>=0.0.9
+pikepdf>=9.0\n
